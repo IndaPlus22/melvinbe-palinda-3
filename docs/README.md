@@ -18,5 +18,5 @@ Take a look at the program matching.go. Explain what happens and why it happens 
 
 |Variant       | Runtime (ms) | #Samples   |
 | ------------ | ------------:| -----------|
-| singleworker |      8.31    |     100    |
-| mapreduce    |      4.55    |     100    |
+| singleworker |      831     |     100    |
+| mapreduce    |      455     |     100    |
